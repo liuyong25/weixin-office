@@ -1,0 +1,22 @@
+{
+  "name": "OfficeHelper",
+  "version": "0.0.1",
+  "private": true,
+
+  "author": "TZ <atian25@qq.com>",
+  "homepage": "http://atian25.iteye.com",
+
+  "main": "index.js",
+  "dependencies": {
+    "backbone": ">=0.9.9",
+    "config": ">=0.4",
+    "debug": "*",
+    "express": ">=3.0",
+    "jade": "*",
+    "mongoskin": ">=0.5",
+    "moment": ">=1.7",
+    "underscore": ">=1.4",
+    "weixin-robot": "*",
+    "wind": ">=0.7"
+  }
+}

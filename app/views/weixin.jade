@@ -1,0 +1,21 @@
+xml
+  ToUserName
+    | <![CDATA[
+    !{msg.toUser}
+    | ]]>
+  FromUserName
+    | <![CDATA[
+    !{msg.fromUser}
+    | ]]>
+  CreateTime
+    !{msg.createTime}
+  MsgType
+    | <![CDATA[
+    !{msg.msgType}
+    | ]]>
+  Content
+    | <![CDATA[
+    !{msg.content}
+    | ]]>
+  FuncFlag
+    !{msg.funcFlag}

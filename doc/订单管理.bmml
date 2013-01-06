@@ -1,0 +1,71 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1065" measuredH="808" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="41" y="40" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#_bg</src>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="45" y="117" w="1014" h="44" measuredW="1014" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1">
+          <text>%u5FAE%u8BA2%u996D</text>
+        </override>
+        <override controlID="2">
+          <backgroundAlpha>0</backgroundAlpha>
+        </override>
+        <override controlID="3">
+          <backgroundAlpha>0.5</backgroundAlpha>
+          <text>%u8BA2%u5355%u7BA1%u7406</text>
+        </override>
+        <override controlID="21">
+          <backgroundAlpha>0</backgroundAlpha>
+          <text>%u83DC%u5355%u7BA1%u7406</text>
+        </override>
+        <override controlID="24">
+          <backgroundAlpha>0</backgroundAlpha>
+        </override>
+        <override controlID="25">
+          <backgroundAlpha>0.5</backgroundAlpha>
+        </override>
+        <override controlID="15">
+          <text>%u7528%u6237%u7BA1%u7406</text>
+        </override>
+        <src>./assets/symbols.bmml#_topbar</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="47" y="220" w="1012" h="552" measuredW="589" measuredH="73" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>49</rowHeight>
+        <text>*%u5E8F%u53F7*%2C*%u7528%u6237*%2C*%u83DC%u5F0F*%2C*%u4EF7%u683C*%2C*%u4E0B%u5355%u65F6%u95F4*%2C*%u662F%u5426%u5DF2%u4ED8%u6B3E*%2C*%u76F8%u5173%u64CD%u4F5C*%0A1%2C%u5F20%u4E09%2C%u54B8%u9999%u9E21%2C12.00%2C2013-01-03%2010%3A00%3A00%2C%u5426%2C%5B%u53D6%u6D88%u8BA2%u5355%5D%20%7C%20%5B%u6807%u8BB0%u4E3A%u5DF2%u4ED8%u6B3E%5D%0A%7B0C%2C1L%2C1L%2C0C%2C0C%2C0C%2C0C%7D</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="47" y="183" w="1012" h="28" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10667209</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>10667209</color>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="118" y="184" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <menuIcon>false</menuIcon>
+        <text>%u5BFC%u51FA</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="53" y="184" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <menuIcon>false</menuIcon>
+        <text>%u8BA2%u9910</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::SearchBox" x="931" y="184" w="-1" h="-1" measuredW="120" measuredH="26" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::DateChooser" x="788" y="184" w="-1" h="-1" measuredW="113" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2013-01-03</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
