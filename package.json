@@ -1,5 +1,5 @@
 {
-  "name": "OfficeHelper",
+  "name": "weixin-office",
   "version": "0.0.1",
   "private": true,
 
@@ -16,7 +16,7 @@
     "mongoskin": ">=0.5",
     "moment": ">=1.7",
     "underscore": ">=1.4",
-    "weixin-robot": "*",
+    "weixin-robot": ">=0.2",
     "wind": ">=0.7"
   }
 }

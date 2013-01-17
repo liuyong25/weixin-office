@@ -8,6 +8,6 @@ exports = module.exports = function(app) {
     res.render('index');
   });
 
-  // 微信公众平台
+  //微信公众平台
   require('./controllers/weixin.js')(app);
 };

@@ -20,4 +20,7 @@ grails-*.zip
 # other #
 *.swp
 .DS_Store
+/db
 /data/db
+/examples/doc/
+/doc/README.html

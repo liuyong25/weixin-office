@@ -4,11 +4,14 @@
  */
 "use strict";
 
-var node_utils = require('node-utils');
-var config = node_utils.getConfig();
-var mongoskin = node_utils.getModule('mongoskin');
+var config = require('config').config;
+var mongoskin = require('mongoskin');
 
-if(config.db_url){
-  var db = mongoskin.db(config.db_url,{safe: true,auto_reconnect: true});
-  exports.db = db;
-}
+var db = mongoskin.db(config.db_url,{safe: true,auto_reconnect: true});
+
+db.log = db.collection('log')
+db.user = db.collection('user')
+
+module.exports = exports = db;
+
+
